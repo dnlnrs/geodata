@@ -9,5 +9,10 @@
             "email": "daniele.lenares@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Geodata\\": "src/"
+        }
+    }
 }

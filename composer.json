@@ -1,0 +1,13 @@
+{
+    "name": "dnlnrs/geodata",
+    "description": "An offline collection with info about countries. Edit",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Daniele Lenares",
+            "email": "daniele.lenares@gmail.com"
+        }
+    ],
+    "require": {}
+}
